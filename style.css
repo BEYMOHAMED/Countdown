@@ -1,0 +1,32 @@
+body {
+  background-color: #F2F1ED;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.unit {
+  color: #DE4848;
+  font-size: 10em;
+  width: 40%;
+  font-weight: bold;
+  margin: 0 30px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, .2);
+  border-radius: 10px;
+}
+
+#calendar {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
